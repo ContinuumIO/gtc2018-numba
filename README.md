@@ -1,2 +1,2 @@
-# gtc2017-numba
-Numba tutorial for GTC 2017 conference
+# gtc2018-numba
+Numba tutorial for GTC 2018 conference

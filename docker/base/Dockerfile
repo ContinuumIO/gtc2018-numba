@@ -24,6 +24,6 @@ RUN conda install -y jupyter notebook
 RUN conda install -y -c numba cudatoolkit=8
 
 # Install Numba
-ARG NUMBA_VERSION=0.33
+ARG NUMBA_VERSION=0.37
 RUN conda install -y -c numba numba=$NUMBA_VERSION
 
